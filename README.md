@@ -1,4 +1,4 @@
-# Meu-DimDim
+# Meu-Money
 <p>
 Com esse aplicativo vc vai saber quanto vc pode gastar por dia, para não ficar sem dinheiro antes do próximo pagamento ou adiantamento do seu salario.
 </p>
